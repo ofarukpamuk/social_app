@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303274342906",
+    "project_id": "fir-onlinechatlogin",
+    "storage_bucket": "fir-onlinechatlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303274342906:android:8d15d4dde32a1253e88c43",
+        "android_client_info": {
+          "package_name": "com.example.kursgirissayfasifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303274342906-h81uhjq9stpk76s1df1msf0abvrnvccd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kursgirissayfasifirebase",
+            "certificate_hash": "2e64a7057c6ebb46725195524e6034a6dee9692f"
+          }
+        },
+        {
+          "client_id": "303274342906-b4bimjvk8pju41userd60aig62luchhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyoJkDxco93LpmyXFdbJJD44Pna3aJpLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303274342906-b4bimjvk8pju41userd60aig62luchhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

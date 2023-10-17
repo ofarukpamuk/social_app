@@ -1,0 +1,82 @@
+{
+    "feed": [
+      {
+        "id": 1,
+        "username": "Buğra",
+        "profile_image": "https://www.techmedya.com/wp-content/uploads/2022/02/WhatsApp-Profil-Resmi-29.webp",
+        "post_image": "https://slideplayer.biz.tr/slide/2742392/10/images/7/Kruskal%E2%80%99%C4%B1n+Algoritmas%C4%B1+%E2%80%93+Kaba+Kod.jpg",
+        "caption": "Harika kod!",
+        "likes": 123,
+        "comments": 5,
+        "description": "Bu günlük bu kadar kod yeter",
+        "department": "İnşaat Mühendisi",
+        "biyografi": "Merhaba,.\nEğitimime Boğaziçi Üniversitesi'nde başladım \ninşaat Mühendisliği bölümünden mezun oldum.\nİlgi alanlarım arasında yapay zeka, veri bilimi ve mobil uygulama geliştirme bulunuyor.\nHobilerim arasında kitap okumak, doğa yürüyüşleri yapmak ve yeni teknolojileri takip etmek yer alıyor.\nEğer sorularınız varsa, lütfen bana ulaşmaktan çekinmeyin. Teşekkürler!",
+        "comment_content": [
+          {
+            "id": 1,
+            "username": "Ahmet",
+            "content": "Bu kodun performansı harika!"
+          },
+          {
+            "id": 2,
+            "username": "Mehmet",
+            "content": "Nesne yönelimli programlama çok güçlü!"
+          },
+          {
+            "id": 3,
+            "username": "Ayşe",
+            "content": "Bu algoritma çok optimize edilmiş!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "username": "Merve",
+        "profile_image": "https://img.lovepik.com/free-png/20210928/lovepik-programmer-png-image_401643778_wh1200.png",
+        "post_image": "https://docs.flutter.dev/assets/images/docs/tools/android-studio/trailing-comma-with.png",
+        "caption": "Yeni misin?",
+        "likes": 456,
+        "comments": 12,
+        "description": "flutter kod çalışmam",
+        "department": "Bilgisayar Mühendisi",
+        "biyografi": "Ben okulumuza 2019 da katıldım\nilgi alanlarım: Algoritma tasarımı, Veri analizi, Mobil uygulama geliştirme.\nProgramlama dilleri  python, c, Java, Dart\nYabancı dil B1-B2 ingilizce",
+        "comment_content": [
+          {
+            "id": 1,
+            "username": "Selçuk",
+            "content": "Bu programlama dili çok kullanıcı dostu!"
+          },
+          {
+            "id": 2,
+            "username": "Ayşe",
+            "content": "Bu framework ile harika uygulamalar geliştirebilirsiniz!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "username": "Ali",
+        "profile_image": "https://www.saglikaktuel.com/d/news/24208.jpg",
+        "post_image": "https://akademikadro.net/statik/a8841063a65e2b76bb44a2711e18c8d7/ogretim-gorevlisi.jpg",
+        "caption": "Bu dersi geçen olmadı",
+        "likes": 789,
+        "comments": 3,
+        "description": "Öğretimde bugün",
+        "department": "Öğretim Görevlisi",
+        "biyografi":"Merhaba,\nLisans eğitimimi Orta Doğu Teknik Üniversitesi'nde tamamladın\nİlgi alanlarım arasında pazarlama, dijital medya ve sosyal medya yönetimi bulunuyor.\nAyrıca, Adobe Creative Suite'i kullanarak grafik tasarım becerilerimi geliştirmekteyim.\nYaratıcı projelerde yer almak ve yeni insanlarla tanışmak beni heyecanlandırıyor.",
+        "comment_content": [
+          {
+            "id": 1,
+            "username": "Veli",
+            "content": "Bu kod parçası gerçekten temiz!"
+          },
+          {
+            "id": 2,
+            "username": "Fatma",
+            "content": "Bu algoritma verimlilik açısından harika!"
+          }
+        ]
+      }
+    ]
+  }
+  
